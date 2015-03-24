@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/pre-dexed/debug/classes-eb59a4700713d01f25e7afd89149b65a7829be42.jar" />
+    </item>
+    <item
+        jar="/home/skywalker/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-62aa0d9bde13f48fcf9dc1018f4cdc8067c19d4c.jar" />
+    </item>
+    <item
+        jar="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/pre-dexed/debug/classes-b690d96ade0ab64d5d85de801c25c191266ac3ce.jar" />
+    </item>
+    <item
+        jar="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/skywalker/AndroidStudioProjects/example2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2fb56d8ca016c38d8ee2239ecaa266de588f6b1b.jar" />
+    </item>
+
+</items>
